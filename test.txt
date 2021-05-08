@@ -1,1 +1,2 @@
 <p>Hello World Senshu 見れました ブランチ</p>
+<p>マスター更新！</p>
